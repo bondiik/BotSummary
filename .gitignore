@@ -1,0 +1,10 @@
+.venv/
+venv/
+.env
+data/
+*.session
+*.session-journal
+__pycache__/
+.vscode/
+./devcontainer
+.devcontainer/
